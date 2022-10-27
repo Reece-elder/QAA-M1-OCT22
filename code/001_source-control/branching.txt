@@ -1,0 +1,13 @@
+Exercise - Within your repo you must have the following: 
+
+- Dev branch
+- 3x feature branches each with a file specific to that feature (feature_branch_1 -> feature_1.txt)
+- Within each feature branch push up your code to github 
+
+git branch -> outputs all branches
+
+git checkout <branch name> -> use that branch
+
+git checkout -b <branch name> -> Create AND use that branch
+
+git branch -d <branch name> -> Delete this branch (locally) 
