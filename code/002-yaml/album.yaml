@@ -1,0 +1,21 @@
+albums:
+  album1: 
+    artist:
+      main_artist: Rob Pajama
+      feat: "Dunk Honeybee, No Belles"
+    album_name: Doctor in the House
+    year_released: 2019
+    rating: 7
+    runtime: "16:03"
+    genre: Electronic
+    number_of_songs: 6
+  songs:
+  - song1: 
+    name: Going Magnet
+    runtime: "03:04"
+  - song2:
+    name: "blah"
+    runtime: "01:23"
+  - song3:
+    name: "blah"
+    runtime: "01:23"  
