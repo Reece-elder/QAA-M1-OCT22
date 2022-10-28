@@ -1,0 +1,31 @@
+# Within .yaml files comments are started with '#'
+# Data on pizza orders
+
+# A key which its value is the rest of the data we're entering
+
+
+# Ctrl / cmd + [ -> Tab right
+# Ctrl / cmd + ] -> Tab left
+
+pizzas:
+# Make a hawaiian pizza
+- hawaiian: # All of my data as a value for my key 'Hawaiian'
+    type: Hawaiian
+    size: 14
+    stuffedCrust: true
+    toppings: # If your value is multiple pieces of data, 
+              # press enter and add - before each data
+    - Ham
+    - Pineapple
+    - Mozzerella
+
+- pepperoni:
+    type: Pepperoni
+    size: 13
+    stuffedCrust: true
+    toppings:
+    - Pepperoni
+    - Pepperoni
+    - Mozzerella
+
+  
